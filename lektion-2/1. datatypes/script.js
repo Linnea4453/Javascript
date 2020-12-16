@@ -74,7 +74,7 @@ console.log(value)
     =   lika med
     +=  lägg till (ersätter inte utan lägger till)
     -=  tar bort (ersätter inte utan tar bort)
-    *=  gångar (ersätter inte utan gångar)
+    *=  gångar (ersätter inte utan gångrar)
     /=
     %= 
 */
