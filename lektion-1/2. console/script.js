@@ -10,7 +10,6 @@
 
     I Webbläsaren: Granska/Inspektera -> Console
 
-
     Sätt att felsöka på:
     myfunc()
 
